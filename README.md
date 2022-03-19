@@ -14,7 +14,7 @@ This app is a daily planner that allows you to organize your time and work.
 
 ## Website
 
-
+https://lisavi28.github.io/super-disco/
 
 ## Contribution
 
