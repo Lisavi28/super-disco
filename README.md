@@ -19,5 +19,7 @@ This app is a daily planner that allows you to organize your time and work.
 ## Contribution
 
 Made by [Yazmín Sánchez]
-![image103](https://github.com/Lisavi28/password-generator/blob/main/image103.PNG?raw=true)
+
+![workday1](https://github.com/Lisavi28/super-disco/blob/develop/assets/images/workday1.PNG)
+
 
